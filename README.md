@@ -7,7 +7,8 @@ A farmer seeking help to select the best crop for his field. Due to budget const
 - Nitrogen content ratio in the soil <br>
 - Phosphorous content ratio in the soil <br>
 - Potassium content ratio in the soil <br>
-- pH value of the soil <br>
+- pH value of the soil <be>
+
 This is a classic feature selection problem, where the objective is to pick the most important features that could help predict the crop accurately.
 
 **Project Tasks:** <br>
